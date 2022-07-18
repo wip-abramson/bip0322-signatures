@@ -1,4 +1,6 @@
-# BIP-0322 Signatures for Verifiable Credentials
+# **NOTE: Work on this project is continuing under a Legendary Requirements repository which can be found [here](https://github.com/LegReq/bip0322-signatures)**
+
+## BIP-0322 Signatures for Verifiable Credentials
 
 [BIP-0322: Generic Signed Message Format](https://github.com/bitcoin/bips/blob/master/bip-0322.mediawiki)
 
